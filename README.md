@@ -1,2 +1,2 @@
-# Python for DevOps using BOTO3
+# Python, Boto3, and AWS S3
 
